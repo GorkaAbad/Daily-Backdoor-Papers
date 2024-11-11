@@ -25,4 +25,11 @@ jobs:
       run: python fetch_papers.py
 
     - name: Commit and push JSON
-      run: |
+      run: |         
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add papers.json
+        git commit -m "Update papers"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
