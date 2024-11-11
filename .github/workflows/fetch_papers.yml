@@ -3,7 +3,8 @@ name: Fetch Papers Daily
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
-
+  workflow_dispatch:      # Enables manual trigger
+  
 jobs:
   fetch:
     runs-on: ubuntu-latest
