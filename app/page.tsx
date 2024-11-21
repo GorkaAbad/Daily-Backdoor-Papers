@@ -28,7 +28,7 @@ export default function BackdoorPapers() {
   const [typeFilter, setTypeFilter] = useState<string>('all')
 
   useEffect(() => {
-    fetch('/papers.json')
+    fetch('../papers.json')
       .then(response => response.json())
       .then(data => {
         const parsedData = JSON.parse(data)
