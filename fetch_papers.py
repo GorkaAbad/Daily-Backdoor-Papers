@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 import pandas as pd
-from sentence_transformers import SentenceTransformer, util
+# from sentence_transformers import SentenceTransformer, util
 
 
 # def check_topic_nlp(title):
