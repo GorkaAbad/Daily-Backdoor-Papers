@@ -8,9 +8,9 @@ async function loadPapers() {
         paperDiv.classList.add('paper');
         paperDiv.innerHTML = `
             <h2>${paper.title}</h2>
+            <p>${paper.proceedings}</p>
             <p>Authors: ${paper.authors.join(', ')}</p>
-            <p><a href="${paper.url}" target="_blank">Read Paper</a></p>
-            <p>Published on: ${new Date(paper.published_date).toLocaleDateString()}</p>
+            <p>Published on: ${new Date(paper.year).toLocaleDateString()}</p>
         `;
         container.appendChild(paperDiv);
     });

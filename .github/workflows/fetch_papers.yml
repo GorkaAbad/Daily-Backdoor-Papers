@@ -20,6 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: pip install requests
+      # run: pip install sentence-transformers
 
     - name: Run fetch script
       run: python fetch_papers.py
