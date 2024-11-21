@@ -35,6 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 node_modules/
-public/papers.json
 public/papers.csv
 .next/
