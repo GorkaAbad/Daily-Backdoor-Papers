@@ -3,32 +3,8 @@ import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 import pandas as pd
-# from sentence_transformers import SentenceTransformer, util
+import os
 
-
-# def check_topic_nlp(title):
-#     # Return attack, defense, both, or None
-#     model = SentenceTransformer('all-MiniLM-L6-v2')
-
-#     backdoor_topic = "Research on backdoor attacks in machine learning"
-#     backdoor_topic_defense = "Research on backdoor attacks in machine learning"
-
-#     paper_embedding = model.encode(title, convert_to_tensor=True)
-#     topic_embedding = model.encode(backdoor_topic, convert_to_tensor=True)
-#     topic_embedding_defense = model.encode(backdoor_topic_defense, convert_to_tensor=True)
-
-#     # Compute cosine similarity
-#     cosine_sim = util.cos_sim(paper_embedding, topic_embedding)
-#     cosine_sim_defense = util.cos_sim(paper_embedding, topic_embedding_defense)
-
-#     if cosine_sim > 0.5 and cosine_sim_defense > 0.5:
-#         return "both"
-#     elif cosine_sim > 0.5:
-#         return "attack"
-#     elif cosine_sim_defense > 0.5:
-#         return "defense"
-#     else:
-#         return None
 
 def check_topic(title):
     attack_keywords = ["backdoor attack", "trojan attack", "poisoning attack", "trigger-based attack", "data poisoning", "backdoor attacks"]
@@ -103,9 +79,12 @@ def main():
             papers_info = crawl_conf(conf, year, papers_info)
 
     # Save the pandas
-    csv = papers_info.to_csv("public/papers.csv", index=False)
+    # csv = papers_info.to_csv("public/papers.csv", index=False)
     papers_list = papers_info.to_dict(orient="records")
 
+    # Check if the folder exists
+    if not os.path.exists("public"):
+        os.makedirs("public")
     #  Save as a proper JSON file
     with open("public/papers.json", "w") as json_file:
         json.dump(papers_list, json_file, indent=4)
