@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react'
 import { Input } from "@/components/ui/input"
-import { Button } from "@/components/ui/button"
 import {
   Select,
   SelectContent,
@@ -20,7 +19,7 @@ interface Paper {
   type: string
 }
 
-export default function BackdoorPapers() {
+export default function Home() {
   const [papers, setPapers] = useState<Paper[]>([])
   const [filteredPapers, setFilteredPapers] = useState<Paper[]>([])
   const [searchTerm, setSearchTerm] = useState('')
@@ -28,13 +27,21 @@ export default function BackdoorPapers() {
   const [typeFilter, setTypeFilter] = useState<string>('all')
 
   useEffect(() => {
-    fetch('../papers.json')
-      .then(response => response.json())
-      .then(data => {
-        const parsedData = JSON.parse(data)
-        setPapers(parsedData)
-        setFilteredPapers(parsedData)
+    fetch('/backdoor-papers/papers.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
       })
+      .then(data => {
+        console.log('Fetched data:', data);
+        setPapers(data);
+        setFilteredPapers(data);
+      })
+      .catch(e => {
+        console.error('Fetch error:', e);
+      });
   }, [])
 
   useEffect(() => {
@@ -50,7 +57,7 @@ export default function BackdoorPapers() {
   const types = Array.from(new Set(papers.map(paper => paper.type)))
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <main className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-bold mb-8 text-center">Daily Machine Learning Backdoor Papers</h1>
       
       <div className="flex flex-col md:flex-row gap-4 mb-8">
@@ -100,7 +107,7 @@ export default function BackdoorPapers() {
           </Card>
         ))}
       </div>
-    </div>
+    </main>
   )
 }
 

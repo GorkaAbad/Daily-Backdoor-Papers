@@ -103,12 +103,12 @@ def main():
             papers_info = crawl_conf(conf, year, papers_info)
 
     # Save the pandas
-    csv = papers_info.to_csv("papers.csv", index=False)
-    json_file = papers_info.to_json(orient="records")
+    csv = papers_info.to_csv("public/papers.csv", index=False)
+    papers_list = papers_info.to_dict(orient="records")
 
-    # Save the json
-    with open("papers.json", "w") as file:
-        json.dump(json_file, file)
+    #  Save as a proper JSON file
+    with open("public/papers.json", "w") as json_file:
+        json.dump(papers_list, json_file, indent=4)
 
 if __name__ == "__main__":
     main()
