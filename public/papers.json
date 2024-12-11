@@ -617,6 +617,80 @@
         "type": "attack"
     },
     {
+        "title": "Phantom: Untargeted Poisoning Attacks on Semi-Supervised Learning.",
+        "authors": [
+            "Jonathan Knauer",
+            "Phillip Rieger",
+            "Hossein Fereidooni",
+            "Ahmad-Reza Sadeghi"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
+        "title": "Characterizing Ethereum Address Poisoning Attack.",
+        "authors": [
+            "Shixuan Guan",
+            "Kai Li"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
+        "title": "Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses.",
+        "authors": [
+            "Yuxin Yang",
+            "Qiang Li",
+            "Jinyuan Jia",
+            "Yuan Hong",
+            "Binghui Wang"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols.",
+        "authors": [
+            "Wei Tong",
+            "Haoyu Chen",
+            "Jiacheng Niu",
+            "Sheng Zhong"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
+        "title": "Fisher Information guided Purification against Backdoor Attacks.",
+        "authors": [
+            "Nazmul Karim",
+            "Abdullah Al Arafat",
+            "Adnan Siraj Rakin",
+            "Zhishan Guo",
+            "Nazanin Rahnavard"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
+        "title": "BadMerging: Backdoor Attacks Against Model Merging.",
+        "authors": [
+            "Jinghuai Zhang",
+            "Jianfeng Chi",
+            "Zheng Li",
+            "Kunlin Cai",
+            "Yang Zhang",
+            "Yuan Tian"
+        ],
+        "year": 2024,
+        "proceedings": "ccs",
+        "type": "attack"
+    },
+    {
         "title": "Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning.",
         "authors": [
             "Matthew Jagielski",
