@@ -6,7 +6,7 @@
             "Amir Houmansadr"
         ],
         "year": 2021,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -20,7 +20,7 @@
             "Mingwei Xu"
         ],
         "year": 2021,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -32,7 +32,7 @@
             "Ahmad-Reza Sadeghi"
         ],
         "year": 2022,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -44,7 +44,7 @@
             "Qian Wang"
         ],
         "year": 2022,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -57,7 +57,7 @@
             "Yang Zhang"
         ],
         "year": 2023,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -70,7 +70,7 @@
             "Nikolaos Laoutaris"
         ],
         "year": 2023,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -89,7 +89,7 @@
             "Xiangyu Zhang"
         ],
         "year": 2023,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -101,7 +101,7 @@
             "Christian Kanzow"
         ],
         "year": 2024,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -114,7 +114,7 @@
             "Ahmad-Reza Sadeghi"
         ],
         "year": 2024,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -130,7 +130,7 @@
             "Haixu Tang"
         ],
         "year": 2024,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -142,7 +142,7 @@
             "Aitor Urbieta"
         ],
         "year": 2024,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -155,7 +155,7 @@
             "Dawn Song"
         ],
         "year": 2024,
-        "proceedings": "ndss",
+        "proceedings": "NDSS",
         "type": "attack"
     },
     {
@@ -168,7 +168,7 @@
             "Tudor Dumitras"
         ],
         "year": 2018,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -184,7 +184,7 @@
             "Fabio Roli"
         ],
         "year": 2019,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -202,7 +202,7 @@
             "Zhiyun Qian"
         ],
         "year": 2020,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -214,7 +214,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2020,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -225,7 +225,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2021,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -237,7 +237,7 @@
             "Alina Oprea"
         ],
         "year": 2021,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -253,7 +253,7 @@
             "Bimal Viswanath"
         ],
         "year": 2021,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -265,7 +265,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2022,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -277,7 +277,7 @@
             "Ben Y. Zhao"
         ],
         "year": 2022,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -290,7 +290,7 @@
             "Min Yang"
         ],
         "year": 2022,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -304,7 +304,7 @@
             "Ruoxi Jia"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -316,7 +316,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -327,7 +327,7 @@
             "Amir Houmansadr"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -340,7 +340,7 @@
             "Hui Li"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -354,7 +354,7 @@
             "Gang Zhao"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -367,7 +367,7 @@
             "Peizhuo Lv"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -381,7 +381,7 @@
             "Dou Goodman"
         ],
         "year": 2023,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -396,7 +396,7 @@
             "Yuan Hong"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -412,7 +412,7 @@
             "Yang Zhang"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -427,7 +427,7 @@
             "Ting Wang"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -443,7 +443,7 @@
             "Xiangliang Zhang"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -457,7 +457,7 @@
             "Radha Poovendran"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -468,7 +468,7 @@
             "Sheng Zhong"
         ],
         "year": 2024,
-        "proceedings": "uss",
+        "proceedings": "Usenix",
         "type": "attack"
     },
     {
@@ -480,7 +480,7 @@
             "Ben Y. Zhao"
         ],
         "year": 2019,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -492,7 +492,7 @@
             "Xiangyu Zhang"
         ],
         "year": 2020,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -506,7 +506,7 @@
             "Haixin Duan"
         ],
         "year": 2020,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -518,7 +518,7 @@
             "Alina Oprea"
         ],
         "year": 2021,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -529,7 +529,7 @@
             "Zhiyun Qian"
         ],
         "year": 2021,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -542,7 +542,7 @@
             "Aitor Urbieta"
         ],
         "year": 2022,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -552,7 +552,7 @@
             "Stjepan Picek"
         ],
         "year": 2022,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -566,7 +566,7 @@
             "Ruoxi Jia"
         ],
         "year": 2023,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -580,7 +580,7 @@
             "Bo Li"
         ],
         "year": 2023,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -592,7 +592,7 @@
             "Fabio Pierazzi"
         ],
         "year": 2023,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -602,7 +602,7 @@
             "Stjepan Picek"
         ],
         "year": 2023,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -613,7 +613,7 @@
             "Stjepan Picek"
         ],
         "year": 2023,
-        "proceedings": "ccs",
+        "proceedings": "CCS",
         "type": "attack"
     },
     {
@@ -627,7 +627,7 @@
             "Bo Li"
         ],
         "year": 2018,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -642,7 +642,7 @@
             "Ben Y. Zhao"
         ],
         "year": 2019,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -654,7 +654,7 @@
             "Daniel Ramage"
         ],
         "year": 2022,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -665,7 +665,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2022,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -681,7 +681,7 @@
             "Gang Wang"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -694,7 +694,7 @@
             "Ahmad-Reza Sadeghi"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "defense"
     },
     {
@@ -707,7 +707,7 @@
             "Bo Li"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -719,7 +719,7 @@
             "Neil Zhenqiang Gong"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -732,7 +732,7 @@
             "Svetha Venkatesh"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -747,7 +747,7 @@
             "Jie Shi"
         ],
         "year": 2023,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -761,7 +761,7 @@
             "Ben Y. Zhao"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -776,7 +776,7 @@
             "Zhan Qin"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -788,7 +788,7 @@
             "Yang Zhang"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -801,7 +801,7 @@
             "Elisa Bertino"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -813,7 +813,7 @@
             "George Kesidis"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -824,7 +824,7 @@
             "Emiliano De Cristofaro"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -838,7 +838,7 @@
             "Xiangyu Zhang"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -854,7 +854,7 @@
             "Xiangyu Zhang"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -867,7 +867,7 @@
             "Min Yang"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -879,7 +879,7 @@
             "Shagufta Mehnaz"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
         "type": "attack"
     },
     {
@@ -891,7 +891,1613 @@
             "Madhusanka Liyanage"
         ],
         "year": 2024,
-        "proceedings": "sp",
+        "proceedings": "S&P",
+        "type": "attack"
+    },
+    {
+        "title": "Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.",
+        "authors": [
+            "Soheil Kolouri",
+            "Aniruddha Saha",
+            "Hamed Pirsiavash",
+            "Heiko Hoffmann"
+        ],
+        "year": 2020,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Clean-Label Backdoor Attacks on Video Recognition Models.",
+        "authors": [
+            "Shihao Zhao",
+            "Xingjun Ma",
+            "Xiang Zheng",
+            "James Bailey",
+            "Jingjing Chen",
+            "Yu-Gang Jiang"
+        ],
+        "year": 2020,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Attacks Against Deep Learning Systems in the Physical World.",
+        "authors": [
+            "Emily Wenger",
+            "Josephine Passananti",
+            "Arjun Nitin Bhagoji",
+            "Yuanshun Yao",
+            "Haitao Zheng",
+            "Ben Y. Zhao"
+        ],
+        "year": 2021,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "How Robust Are Randomized Smoothing Based Defenses to Data Poisoning?",
+        "authors": [
+            "Akshay Mehra",
+            "Bhavya Kailkhura",
+            "Pin-Yu Chen",
+            "Jihun Hamm"
+        ],
+        "year": 2021,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free.",
+        "authors": [
+            "Tianlong Chen",
+            "Zhenyu Zhang",
+            "Yihua Zhang",
+            "Shiyu Chang",
+            "Sijia Liu",
+            "Zhangyang Wang"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Attacks on Self-Supervised Learning.",
+        "authors": [
+            "Aniruddha Saha",
+            "Ajinkya Tejankar",
+            "Soroush Abbasi Koohpayegani",
+            "Hamed Pirsiavash"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks.",
+        "authors": [
+            "Xiangyu Qi",
+            "Tinghao Xie",
+            "Ruizhe Pan",
+            "Jifeng Zhu",
+            "Yong Yang",
+            "Kai Bu"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Few-shot Backdoor Defense Using Shapley Estimation.",
+        "authors": [
+            "Jiyang Guan",
+            "Zhuozhuo Tu",
+            "Ran He",
+            "Dacheng Tao"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "defense"
+    },
+    {
+        "title": "BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.",
+        "authors": [
+            "Zhenting Wang",
+            "Juan Zhai",
+            "Shiqing Ma"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.",
+        "authors": [
+            "Zhendong Zhao",
+            "Xiaojun Chen",
+            "Yuexin Xuan",
+            "Ye Dong",
+            "Dakui Wang",
+            "Kaitai Liang"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.",
+        "authors": [
+            "Yu Feng",
+            "Benteng Ma",
+            "Jing Zhang",
+            "Shanshan Zhao",
+            "Yong Xia",
+            "Dacheng Tao"
+        ],
+        "year": 2022,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Defense via Adaptively Splitting Poisoned Dataset.",
+        "authors": [
+            "Kuofeng Gao",
+            "Yang Bai",
+            "Jindong Gu",
+            "Yong Yang",
+            "Shu-Tao Xia"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "defense"
+    },
+    {
+        "title": "TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets.",
+        "authors": [
+            "Weixin Chen",
+            "Dawn Song",
+            "Bo Li"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Color Backdoor: A Robust Poisoning Attack in Color Space.",
+        "authors": [
+            "Wenbo Jiang",
+            "Hongwei Li",
+            "Guowen Xu",
+            "Tianwei Zhang"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Defense via Deconfounded Representation Learning.",
+        "authors": [
+            "Zaixi Zhang",
+            "Qi Liu",
+            "Zhicai Wang",
+            "Zepu Lu",
+            "Qingyong Hu"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "defense"
+    },
+    {
+        "title": "Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning.",
+        "authors": [
+            "Ajinkya Tejankar",
+            "Maziar Sanjabi",
+            "Qifan Wang",
+            "Sinong Wang",
+            "Hamed Firooz",
+            "Hamed Pirsiavash",
+            "Liang Tan"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger.",
+        "authors": [
+            "Yi Yu",
+            "Yufei Wang",
+            "Wenhan Yang",
+            "Shijian Lu",
+            "Yap-Peng Tan",
+            "Alex C. Kot"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "You Are Catching My Attention: Are Vision Transformers Bad Learners under Backdoor Attacks?",
+        "authors": [
+            "Zenghui Yuan",
+            "Pan Zhou",
+            "Kai Zou",
+            "Yu Cheng"
+        ],
+        "year": 2023,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Physical Backdoor: Towards Temperature-Based Backdoor Attacks in the Physical World.",
+        "authors": [
+            "Wen Yin",
+            "Jian Lou",
+            "Pan Zhou",
+            "Yulai Xie",
+            "Dan Feng",
+            "Yuhua Sun",
+            "Tailai Zhang",
+            "Lichao Sun"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.",
+        "authors": [
+            "Mozhgan Pourkeshavarz",
+            "Mohammad Sabokrou",
+            "Amir Rasouli"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "BrainWash: A Poisoning Attack to Forget in Continual Learning.",
+        "authors": [
+            "Ali Abbasi",
+            "Parsa Nooralinejad",
+            "Hamed Pirsiavash",
+            "Soheil Kolouri"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP.",
+        "authors": [
+            "Jiawang Bai",
+            "Kuofeng Gao",
+            "Shaobo Min",
+            "Shu-Tao Xia",
+            "Zhifeng Li",
+            "Wei Liu"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Based Backdoor Attacks to Contrastive Learning.",
+        "authors": [
+            "Jinghuai Zhang",
+            "Hongbin Liu",
+            "Jinyuan Jia",
+            "Neil Zhenqiang Gong"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transfomers.",
+        "authors": [
+            "Sheng Yang",
+            "Jiawang Bai",
+            "Kuofeng Gao",
+            "Yong Yang",
+            "Yiming Li",
+            "Shu-Tao Xia"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Nearest is Not Dearest: Towards Practical Defense Against Quantization-Conditioned Backdoor Attacks.",
+        "authors": [
+            "Boheng Li",
+            "Yishuo Cai",
+            "Haowei Li",
+            "Feng Xue",
+            "Zhifeng Li",
+            "Yiming Li"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Defense via Test-Time Detecting and Repairing.",
+        "authors": [
+            "Jiyang Guan",
+            "Jian Liang",
+            "Ran He"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "defense"
+    },
+    {
+        "title": "BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning.",
+        "authors": [
+            "Siyuan Liang",
+            "Mingli Zhu",
+            "Aishan Liu",
+            "Baoyuan Wu",
+            "Xiaochun Cao",
+            "Ee-Chien Chang"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Lotus: Evasive and Resilient Backdoor Attacks through Sub-Partitioning.",
+        "authors": [
+            "Siyuan Cheng",
+            "Guanhong Tao",
+            "Yingqi Liu",
+            "Guangyu Shen",
+            "Shengwei An",
+            "Shiwei Feng",
+            "Xiangzhe Xu",
+            "Kaiyuan Zhang",
+            "Shiqing Ma",
+            "Xiangyu Zhang"
+        ],
+        "year": 2024,
+        "proceedings": "CVPR",
+        "type": "attack"
+    },
+    {
+        "title": "Certified Defenses for Data Poisoning Attacks.",
+        "authors": [
+            "Jacob Steinhardt",
+            "Pang Wei Koh",
+            "Percy Liang"
+        ],
+        "year": 2017,
+        "proceedings": "NeurIPS",
+        "type": "attack"
+    },
+    {
+        "title": "Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks.",
+        "authors": [
+            "Ali Shafahi",
+            "W. Ronny Huang",
+            "Mahyar Najibi",
+            "Octavian Suciu",
+            "Christoph Studer",
+            "Tudor Dumitras",
+            "Tom Goldstein"
+        ],
+        "year": 2018,
+        "proceedings": "NeurIPS",
+        "type": "attack"
+    },
+    {
+        "title": "Spectral Signatures in Backdoor Attacks.",
+        "authors": [
+            "Brandon Tran",
+            "Jerry Li",
+            "Aleksander Madry"
+        ],
+        "year": 2018,
+        "proceedings": "NeurIPS",
+        "type": "attack"
+    },
+    {
+        "title": "A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.",
+        "authors": [
+            "Xuanqing Liu",
+            "Si Si",
+            "Jerry Zhu",
+            "Yang Li",
+            "Cho-Jui Hsieh"
+        ],
+        "year": 2019,
+        "proceedings": "NeurIPS",
+        "type": "attack"
+    },
+    {
+        "title": "DBA: Distributed Backdoor Attacks against Federated Learning.",
+        "authors": [
+            "Chulin Xie",
+            "Keli Huang",
+            "Pin-Yu Chen",
+            "Bo Li"
+        ],
+        "year": 2020,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Robust anomaly detection and backdoor attack detection via differential privacy.",
+        "authors": [
+            "Min Du",
+            "Ruoxi Jia",
+            "Dawn Song"
+        ],
+        "year": 2020,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching.",
+        "authors": [
+            "Jonas Geiping",
+            "Liam H. Fowl",
+            "W. Ronny Huang",
+            "Wojciech Czaja",
+            "Gavin Taylor",
+            "Michael Moeller",
+            "Tom Goldstein"
+        ],
+        "year": 2021,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks.",
+        "authors": [
+            "Alexander Levine",
+            "Soheil Feizi"
+        ],
+        "year": 2021,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "WaNet - Imperceptible Warping-based Backdoor Attack.",
+        "authors": [
+            "Tuan Anh Nguyen",
+            "Anh Tuan Tran"
+        ],
+        "year": 2021,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks.",
+        "authors": [
+            "Fan Wu",
+            "Linyi Li",
+            "Huan Zhang",
+            "Bhavya Kailkhura",
+            "Krishnaram Kenthapadi",
+            "Ding Zhao",
+            "Bo Li"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Won't Save You From Facial Recognition.",
+        "authors": [
+            "Evani Radiya-Dixit",
+            "Sanghyun Hong",
+            "Nicholas Carlini",
+            "Florian Tram\u00e8r"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.",
+        "authors": [
+            "Kangjie Chen",
+            "Yuxian Meng",
+            "Xiaofei Sun",
+            "Shangwei Guo",
+            "Tianwei Zhang",
+            "Jiwei Li",
+            "Chun Fan"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios.",
+        "authors": [
+            "Zhen Xiang",
+            "David J. Miller",
+            "George Kesidis"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Few-Shot Backdoor Attacks on Visual Object Tracking.",
+        "authors": [
+            "Yiming Li",
+            "Haoxiang Zhong",
+            "Xingjun Ma",
+            "Yong Jiang",
+            "Shu-Tao Xia"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Defense via Decoupling the Training Process.",
+        "authors": [
+            "Kunzhe Huang",
+            "Yiming Li",
+            "Baoyuan Wu",
+            "Zhan Qin",
+            "Kui Ren"
+        ],
+        "year": 2022,
+        "proceedings": "ICLR",
+        "type": "defense"
+    },
+    {
+        "title": "Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning.",
+        "authors": [
+            "Hao He",
+            "Kaiwen Zha",
+            "Dina Katabi"
+        ],
+        "year": 2023,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?",
+        "authors": [
+            "Rui Wen",
+            "Zhengyu Zhao",
+            "Zhuoran Liu",
+            "Michael Backes",
+            "Tianhao Wang",
+            "Yang Zhang"
+        ],
+        "year": 2023,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Few-shot Backdoor Attacks via Neural Tangent Kernels.",
+        "authors": [
+            "Jonathan Hayase",
+            "Sewoong Oh"
+        ],
+        "year": 2023,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Revisiting the Assumption of Latent Separability for Backdoor Defenses.",
+        "authors": [
+            "Xiangyu Qi",
+            "Tinghao Xie",
+            "Yiming Li",
+            "Saeed Mahloujifar",
+            "Prateek Mittal"
+        ],
+        "year": 2023,
+        "proceedings": "ICLR",
+        "type": "defense"
+    },
+    {
+        "title": "Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks.",
+        "authors": [
+            "Charles Jin",
+            "Melinda Sun",
+            "Martin C. Rinard"
+        ],
+        "year": 2023,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Sharpness-Aware Data Poisoning Attack.",
+        "authors": [
+            "Pengfei He",
+            "Han Xu",
+            "Jie Ren",
+            "Yingqian Cui",
+            "Shenglai Zeng",
+            "Hui Liu",
+            "Charu C. Aggarwal",
+            "Jiliang Tang"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection.",
+        "authors": [
+            "Jiawei Liang",
+            "Siyuan Liang",
+            "Aishan Liu",
+            "Xiaojun Jia",
+            "Junhao Kuang",
+            "Xiaochun Cao"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Influencer Backdoor Attack on Semantic Segmentation.",
+        "authors": [
+            "Haoheng Lan",
+            "Jindong Gu",
+            "Philip Torr",
+            "Hengshuang Zhao"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Demystifying Poisoning Backdoor Attacks from a Statistical Perspective.",
+        "authors": [
+            "Ganghua Wang",
+            "Xun Xian",
+            "Ashish Kundu",
+            "Jayanth Srinivasa",
+            "Xuan Bi",
+            "Mingyi Hong",
+            "Jie Ding"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective.",
+        "authors": [
+            "Ming-Yu Chung",
+            "Sheng-Yen Chou",
+            "Chia-Mu Yu",
+            "Pin-Yu Chen",
+            "Sy-Yen Kuo",
+            "Tsung-Yi Ho"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Universal Backdoor Attacks.",
+        "authors": [
+            "Benjamin Schneider",
+            "Nils Lukas",
+            "Florian Kerschbaum"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios.",
+        "authors": [
+            "Ziqiang Li",
+            "Hong Sun",
+            "Pengfei Xia",
+            "Heng Li",
+            "Beihao Xia",
+            "Yi Wu",
+            "Bin Li"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Rethinking CNN's Generalization to Backdoor Attack from Frequency Domain.",
+        "authors": [
+            "Quanrui Rao",
+            "Lin Wang",
+            "Wuying Liu"
+        ],
+        "year": 2024,
+        "proceedings": "ICLR",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks on Stochastic Bandits.",
+        "authors": [
+            "Fang Liu",
+            "Ness B. Shroff"
+        ],
+        "year": 2019,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks in Multi-Party Learning.",
+        "authors": [
+            "Saeed Mahloujifar",
+            "Mohammad Mahmoody",
+            "Ameer Mohammed"
+        ],
+        "year": 2019,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Transferable Clean-Label Poisoning Attacks on Deep Neural Nets.",
+        "authors": [
+            "Chen Zhu",
+            "W. Ronny Huang",
+            "Hengduo Li",
+            "Gavin Taylor",
+            "Christoph Studer",
+            "Tom Goldstein"
+        ],
+        "year": 2019,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Min-Max Optimization without Gradients: Convergence and Applications to Black-Box Evasion and Poisoning Attacks.",
+        "authors": [
+            "Sijia Liu",
+            "Songtao Lu",
+            "Xiangyi Chen",
+            "Yao Feng",
+            "Kaidi Xu",
+            "Abdullah Al-Dujaili",
+            "Mingyi Hong",
+            "Una-May O'Reilly"
+        ],
+        "year": 2020,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Adaptive Reward-Poisoning Attacks against Reinforcement Learning.",
+        "authors": [
+            "Xuezhou Zhang",
+            "Yuzhe Ma",
+            "Adish Singla",
+            "Xiaojin Zhu"
+        ],
+        "year": 2020,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Defense against backdoor attacks via robust covariance estimation.",
+        "authors": [
+            "Jonathan Hayase",
+            "Weihao Kong",
+            "Raghav Somani",
+            "Sewoong Oh"
+        ],
+        "year": 2021,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.",
+        "authors": [
+            "Avi Schwarzschild",
+            "Micah Goldblum",
+            "Arjun Gupta",
+            "John P. Dickerson",
+            "Tom Goldstein"
+        ],
+        "year": 2021,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Model-Targeted Poisoning Attacks with Provable Convergence.",
+        "authors": [
+            "Fnu Suya",
+            "Saeed Mahloujifar",
+            "Anshuman Suri",
+            "David Evans",
+            "Yuan Tian"
+        ],
+        "year": 2021,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Robust Learning for Data Poisoning Attacks.",
+        "authors": [
+            "Yunjuan Wang",
+            "Poorya Mianjy",
+            "Raman Arora"
+        ],
+        "year": 2021,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "CRFL: Certifiably Robust Federated Learning against Backdoor Attacks.",
+        "authors": [
+            "Chulin Xie",
+            "Minghao Chen",
+            "Pin-Yu Chen",
+            "Bo Li"
+        ],
+        "year": 2021,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "On Collective Robustness of Bagging Against Data Poisoning.",
+        "authors": [
+            "Ruoxin Chen",
+            "Zenan Li",
+            "Jie Li",
+            "Junchi Yan",
+            "Chentao Wu"
+        ],
+        "year": 2022,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "An Equivalence Between Data Poisoning and Byzantine Gradient Attacks.",
+        "authors": [
+            "Sadegh Farhadkhani",
+            "Rachid Guerraoui",
+            "L\u00ea Nguy\u00ean Hoang",
+            "Oscar Villemaud"
+        ],
+        "year": 2022,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Constrained Optimization with Dynamic Bound-scaling for Effective NLP Backdoor Defense.",
+        "authors": [
+            "Guangyu Shen",
+            "Yingqi Liu",
+            "Guanhong Tao",
+            "Qiuling Xu",
+            "Zhuo Zhang",
+            "Shengwei An",
+            "Shiqing Ma",
+            "Xiangyu Zhang"
+        ],
+        "year": 2022,
+        "proceedings": "ICML",
+        "type": "defense"
+    },
+    {
+        "title": "Improved Certified Defenses against Data Poisoning with (Deterministic) Finite Aggregation.",
+        "authors": [
+            "Wenxiao Wang",
+            "Alexander Levine",
+            "Soheil Feizi"
+        ],
+        "year": 2022,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Not All Poisons are Created Equal: Robust Training against Data Poisoning.",
+        "authors": [
+            "Yu Yang",
+            "Tian Yu Liu",
+            "Baharan Mirzasoleiman"
+        ],
+        "year": 2022,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Rethinking Backdoor Attacks.",
+        "authors": [
+            "Alaa Khaddaj",
+            "Guillaume Leclerc",
+            "Aleksandar Makelov",
+            "Kristian Georgiev",
+            "Hadi Salman",
+            "Andrew Ilyas",
+            "Aleksander Madry"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Reconstructive Neuron Pruning for Backdoor Defense.",
+        "authors": [
+            "Yige Li",
+            "Xixiang Lyu",
+            "Xingjun Ma",
+            "Nodens Koren",
+            "Lingjuan Lyu",
+            "Bo Li",
+            "Yu-Gang Jiang"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "defense"
+    },
+    {
+        "title": "Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning Attacks.",
+        "authors": [
+            "Yiwei Lu",
+            "Gautam Kamath",
+            "Yaoliang Yu"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Run-off Election: Improved Provable Defense against Data Poisoning Attacks.",
+        "authors": [
+            "Keivan Rezaei",
+            "Kiarash Banihashem",
+            "Atoosa Malemir Chegini",
+            "Soheil Feizi"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Understanding Backdoor Attacks through the Adaptability Hypothesis.",
+        "authors": [
+            "Xun Xian",
+            "Ganghua Wang",
+            "Jayanth Srinivasa",
+            "Ashish Kundu",
+            "Xuan Bi",
+            "Mingyi Hong",
+            "Jie Ding"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "UMD: Unsupervised Model Detection for X2X Backdoor Attacks.",
+        "authors": [
+            "Zhen Xiang",
+            "Zidi Xiong",
+            "Bo Li"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks Against Multimodal Encoders.",
+        "authors": [
+            "Ziqing Yang",
+            "Xinlei He",
+            "Zheng Li",
+            "Michael Backes",
+            "Mathias Humbert",
+            "Pascal Berrang",
+            "Yang Zhang"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Graph Contrastive Backdoor Attacks.",
+        "authors": [
+            "Hangfan Zhang",
+            "Jinghui Chen",
+            "Lu Lin",
+            "Jinyuan Jia",
+            "Dinghao Wu"
+        ],
+        "year": 2023,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright BreachesWithout Adjusting Finetuning Pipeline.",
+        "authors": [
+            "Haonan Wang",
+            "Qianli Shen",
+            "Yao Tong",
+            "Yang Zhang",
+            "Kenji Kawaguchi"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "A Theoretical Analysis of Backdoor Poisoning Attacks in Convolutional Neural Networks.",
+        "authors": [
+            "Boqi Li",
+            "Weiwei Liu"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Causality Based Front-door Defense Against Backdoor Attack on Language Models.",
+        "authors": [
+            "Yiran Liu",
+            "Xiaoang Xu",
+            "Zhiyi Hou",
+            "Yang Yu"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "FedREDefense: Defending against Model Poisoning Attacks for Federated Learning using Model Update Reconstruction Error.",
+        "authors": [
+            "Yueqi Xie",
+            "Minghong Fang",
+            "Neil Zhenqiang Gong"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks against Conformal Prediction.",
+        "authors": [
+            "Yangyi Li",
+            "Aobo Chen",
+            "Wei Qian",
+            "Chenxu Zhao",
+            "Divya Lidder",
+            "Mengdi Huai"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Defense against Backdoor Attack on Pre-trained Language Models via Head Pruning and Attention Normalization.",
+        "authors": [
+            "Xingyi Zhao",
+            "Depeng Xu",
+            "Shuhan Yuan"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks.",
+        "authors": [
+            "Wenhan Yang",
+            "Jingdong Gao",
+            "Baharan Mirzasoleiman"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Energy-based Backdoor Defense without Task-Specific Samples and Model Retraining.",
+        "authors": [
+            "Yudong Gao",
+            "Honglong Chen",
+            "Peng Sun",
+            "Zhe Li",
+            "Junjian Li",
+            "Huajie Shao"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "defense"
+    },
+    {
+        "title": "Generalization Bound and New Algorithm for Clean-Label Backdoor Attack.",
+        "authors": [
+            "Lijia Yu",
+            "Shuang Liu",
+            "Yibo Miao",
+            "Xiao-Shan Gao",
+            "Lijun Zhang"
+        ],
+        "year": 2024,
+        "proceedings": "ICML",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning Attacks on Multi-Task Relationship Learning.",
+        "authors": [
+            "Mengchen Zhao",
+            "Bo An",
+            "Yaodong Yu",
+            "Sulin Liu",
+            "Sinno Jialin Pan"
+        ],
+        "year": 2018,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "The Curse of Concentration in Robust Learning: Evasion and Poisoning Attacks from Concentration of Measure.",
+        "authors": [
+            "Saeed Mahloujifar",
+            "Dimitrios I. Diochnos",
+            "Mohammad Mahmoody"
+        ],
+        "year": 2019,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Hidden Trigger Backdoor Attacks.",
+        "authors": [
+            "Aniruddha Saha",
+            "Akshayvarun Subramanya",
+            "Hamed Pirsiavash"
+        ],
+        "year": 2020,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.",
+        "authors": [
+            "Siyuan Cheng",
+            "Yingqi Liu",
+            "Shiqing Ma",
+            "Xiangyu Zhang"
+        ],
+        "year": 2021,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks.",
+        "authors": [
+            "Jinyuan Jia",
+            "Xiaoyu Cao",
+            "Neil Zhenqiang Gong"
+        ],
+        "year": 2021,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Uncertainty-Matching Graph Neural Networks to Defend Against Poisoning Attacks.",
+        "authors": [
+            "Uday Shankar Shanthamallu",
+            "Jayaraman J. Thiagarajan",
+            "Andreas Spanias"
+        ],
+        "year": 2021,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via Adversarial Perturbation.",
+        "authors": [
+            "Zhicong Yan",
+            "Gaolei Li",
+            "Yuan Tian",
+            "Jun Wu",
+            "Shenghong Li",
+            "Mingzhe Chen",
+            "H. Vincent Poor"
+        ],
+        "year": 2021,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Attacks on the DNN Interpretation System.",
+        "authors": [
+            "Shihong Fang",
+            "Anna Choromanska"
+        ],
+        "year": 2022,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Hard to Forget: Poisoning Attacks on Certified Machine Unlearning.",
+        "authors": [
+            "Neil G. Marchant",
+            "Benjamin I. P. Rubinstein",
+            "Scott Alfeld"
+        ],
+        "year": 2022,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Saving Stochastic Bandits from Poisoning Attacks via Limited Data Verification.",
+        "authors": [
+            "Anshuka Rangi",
+            "Long Tran-Thanh",
+            "Haifeng Xu",
+            "Massimo Franceschetti"
+        ],
+        "year": 2022,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks.",
+        "authors": [
+            "Jinyuan Jia",
+            "Yupei Liu",
+            "Xiaoyu Cao",
+            "Neil Zhenqiang Gong"
+        ],
+        "year": 2022,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Hibernated Backdoor: A Mutual Information Empowered Backdoor Attack to Deep Neural Networks.",
+        "authors": [
+            "Rui Ning",
+            "Jiang Li",
+            "Chunsheng Xin",
+            "Hongyi Wu",
+            "Chonggang Wang"
+        ],
+        "year": 2022,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Defending Backdoor Attacks on Vision Transformer via Patch Processing.",
+        "authors": [
+            "Khoa D. Doan",
+            "Yingjie Lao",
+            "Peng Yang",
+            "Ping Li"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Defending against Backdoor Attacks in Natural Language Generation.",
+        "authors": [
+            "Xiaofei Sun",
+            "Xiaoya Li",
+            "Yuxian Meng",
+            "Xiang Ao",
+            "Lingjuan Lyu",
+            "Jiwei Li",
+            "Tianwei Zhang"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Enhancing the Antidote: Improved Pointwise Certifications against Poisoning Attacks.",
+        "authors": [
+            "Shijie Liu",
+            "Andrew C. Cullen",
+            "Paul Montague",
+            "Sarah M. Erfani",
+            "Benjamin I. P. Rubinstein"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Poisoning with Cerberus: Stealthy and Colluded Backdoor Attack against Federated Learning.",
+        "authors": [
+            "Xiaoting Lyu",
+            "Yufei Han",
+            "Wei Wang",
+            "Jingkai Liu",
+            "Bin Wang",
+            "Jiqiang Liu",
+            "Xiangliang Zhang"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Reward Poisoning Attacks on Offline Multi-Agent Reinforcement Learning.",
+        "authors": [
+            "Young Wu",
+            "Jeremy McMahan",
+            "Xiaojin Zhu",
+            "Qiaomin Xie"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "DeFL: Defending against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness.",
+        "authors": [
+            "Gang Yan",
+            "Hao Wang",
+            "Xu Yuan",
+            "Jian Li"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "On the Vulnerability of Backdoor Defenses for Federated Learning.",
+        "authors": [
+            "Pei Fang",
+            "Jinghui Chen"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "defense"
+    },
+    {
+        "title": "End-to-End Pipeline for Trigger Detection on Hit and Track Graphs.",
+        "authors": [
+            "Tingting Xuan",
+            "Yimin Zhu",
+            "Giorgian Borca-Tasciuc",
+            "Ming Xiong Liu",
+            "Yu Sun",
+            "Cameron Dean",
+            "Yasser Corrales Morales",
+            "Zhaozhong Shi",
+            "Dantong Yu"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "defense"
+    },
+    {
+        "title": "Poisoning-Based Backdoor Attacks in Computer Vision.",
+        "authors": [
+            "Yiming Li"
+        ],
+        "year": 2023,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Inspecting Prediction Confidence for Detecting Black-Box Backdoor Attacks.",
+        "authors": [
+            "Tong Wang",
+            "Yuan Yao",
+            "Feng Xu",
+            "Miao Xu",
+            "Shengwei An",
+            "Ting Wang"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "COMBAT: Alternated Training for Effective Clean-Label Backdoor Attacks.",
+        "authors": [
+            "Tran Huynh",
+            "Dang Nguyen",
+            "Tung Pham",
+            "Anh Tran"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Temporal-Distributed Backdoor Attack against Video Based Action Recognition.",
+        "authors": [
+            "Xi Li",
+            "Songhe Wang",
+            "Ruiquan Huang",
+            "Mahanth Gowda",
+            "George Kesidis"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Progressive Poisoned Data Isolation for Training-Time Backdoor Defense.",
+        "authors": [
+            "Yiming Chen",
+            "Haiwei Wu",
+            "Jiantao Zhou"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "defense"
+    },
+    {
+        "title": "BadRL: Sparse Targeted Backdoor Attack against Reinforcement Learning.",
+        "authors": [
+            "Jing Cui",
+            "Yufei Han",
+            "Yuzhe Ma",
+            "Jianbin Jiao",
+            "Junge Zhang"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Backdoor Attacks via Machine Unlearning.",
+        "authors": [
+            "Zihao Liu",
+            "Tianhao Wang",
+            "Mengdi Huai",
+            "Chenglin Miao"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective.",
+        "authors": [
+            "Zhen Qin",
+            "Feiyi Chen",
+            "Chen Zhi",
+            "Xueqiang Yan",
+            "Shuiguang Deng"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Data Poisoning to Fake a Nash Equilibria for Markov Games.",
+        "authors": [
+            "Young Wu",
+            "Jeremy McMahan",
+            "Xiaojin Zhu",
+            "Qiaomin Xie"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Chronic Poisoning: Backdoor Attack against Split Learning.",
+        "authors": [
+            "Fangchao Yu",
+            "Bo Zeng",
+            "Kai Zhao",
+            "Zhi Pang",
+            "Lina Wang"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Robust Nonparametric Regression under Poisoning Attack.",
+        "authors": [
+            "Puning Zhao",
+            "Zhiguo Wan"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Conditional Backdoor Attack via JPEG Compression.",
+        "authors": [
+            "Qiuyu Duan",
+            "Zhongyun Hua",
+            "Qing Liao",
+            "Yushu Zhang",
+            "Leo Yu Zhang"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Does Few-Shot Learning Suffer from Backdoor Attacks?",
+        "authors": [
+            "Xinwei Liu",
+            "Xiaojun Jia",
+            "Jindong Gu",
+            "Yuan Xun",
+            "Siyuan Liang",
+            "Xiaochun Cao"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain.",
+        "authors": [
+            "Linkun Fan",
+            "Fazhi He",
+            "Tongzhen Si",
+            "Wei Tang",
+            "Bing Li"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models.",
+        "authors": [
+            "Yihao Huang",
+            "Felix Juefei-Xu",
+            "Qing Guo",
+            "Jie Zhang",
+            "Yutong Wu",
+            "Ming Hu",
+            "Tianlin Li",
+            "Geguang Pu",
+            "Yang Liu"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning.",
+        "authors": [
+            "Tao Liu",
+            "Yuhang Zhang",
+            "Zhu Feng",
+            "Zhiqin Yang",
+            "Chen Xu",
+            "Dapeng Man",
+            "Wu Yang"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models.",
+        "authors": [
+            "Jiachen Zhou",
+            "Peizhuo Lv",
+            "Yibing Lan",
+            "Guozhu Meng",
+            "Kai Chen",
+            "Hualong Ma"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
+        "type": "attack"
+    },
+    {
+        "title": "BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks (Student Abstract).",
+        "authors": [
+            "Zihan Guan",
+            "Mengxuan Hu",
+            "Zhongliang Zhou",
+            "Jielu Zhang",
+            "Sheng Li",
+            "Ninghao Liu"
+        ],
+        "year": 2024,
+        "proceedings": "AAAI",
         "type": "attack"
     }
 ]

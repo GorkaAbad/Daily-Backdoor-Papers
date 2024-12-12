@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Papers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .paper {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .paper-title {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .paper-authors,
+        .paper-year,
+        .paper-proceedings,
+        .paper-type {
+            margin: 5px 0;
+        }
+
+        #searchBar,
+        .filter {
+            margin: 10px;
+            padding: 10px;
+            font-size: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Daily Papers</h1>
+
+    <!-- Search and Filter Tools -->
+    <input type="text" id="searchBar" placeholder="Search by title, authors, proceedings, or type...">
+
+    <select id="yearFilter" class="filter">
+        <option value="">All Years</option>
+    </select>
+    <select id="proceedingsFilter" class="filter">
+        <option value="">All Proceedings</option>
+    </select>
+    <select id="typeFilter" class="filter">
+        <option value="">All Types</option>
+    </select>
+
+    <div id="papers-list"></div>
+
+    <script>
+        let papersData = [];
+
+        // Fetch the JSON data
+        fetch('public/papers.json')
+            .then(response => response.json())
+            .then(data => {
+                papersData = data;
+                populateFilters(data);
+                displayPapers(data);
+            })
+            .catch(error => {
+                console.error('Error fetching papers:', error);
+            });
+
+        function displayPapers(data) {
+            const papersList = document.getElementById('papers-list');
+            papersList.innerHTML = ""; // Clear previous results
+
+            data.forEach(paper => {
+                const paperDiv = document.createElement('div');
+                paperDiv.classList.add('paper');
+
+                // Create and append the title
+                const titleElement = document.createElement('div');
+                titleElement.classList.add('paper-title');
+                titleElement.innerText = paper.title;
+                paperDiv.appendChild(titleElement);
+
+                // Create and append the authors
+                const authorsElement = document.createElement('div');
+                authorsElement.classList.add('paper-authors');
+                authorsElement.innerHTML = `<strong>Authors:</strong> ${paper.authors.join(', ')}`;
+                paperDiv.appendChild(authorsElement);
+
+                // Create and append the year
+                const yearElement = document.createElement('div');
+                yearElement.classList.add('paper-year');
+                yearElement.innerHTML = `<strong>Year:</strong> ${paper.year}`;
+                paperDiv.appendChild(yearElement);
+
+                // Create and append the proceedings
+                const proceedingsElement = document.createElement('div');
+                proceedingsElement.classList.add('paper-proceedings');
+                proceedingsElement.innerHTML = `<strong>Proceedings:</strong> ${paper.proceedings}`;
+                paperDiv.appendChild(proceedingsElement);
+
+                // Create and append the type
+                const typeElement = document.createElement('div');
+                typeElement.classList.add('paper-type');
+                typeElement.innerHTML = `<strong>Type:</strong> ${paper.type}`;
+                paperDiv.appendChild(typeElement);
+
+                // Append the complete paperDiv to the list
+                papersList.appendChild(paperDiv);
+            });
+        }
+
+        function populateFilters(data) {
+            const yearFilter = document.getElementById('yearFilter');
+            const proceedingsFilter = document.getElementById('proceedingsFilter');
+            const typeFilter = document.getElementById('typeFilter');
+
+            // Extract unique values for year, proceedings, and type
+            const years = [...new Set(data.map(paper => paper.year))];
+            const proceedings = [...new Set(data.map(paper => paper.proceedings))];
+            const types = [...new Set(data.map(paper => paper.type))];
+
+            // Populate the filter dropdowns
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.innerText = year;
+                yearFilter.appendChild(option);
+            });
+
+            proceedings.forEach(proceeding => {
+                const option = document.createElement('option');
+                option.value = proceeding;
+                option.innerText = proceeding;
+                proceedingsFilter.appendChild(option);
+            });
+
+            types.forEach(type => {
+                const option = document.createElement('option');
+                option.value = type;
+                option.innerText = type;
+                typeFilter.appendChild(option);
+            });
+        }
+
+        // Event listeners for search and filter
+        document.getElementById('searchBar').addEventListener('input', filterPapers);
+        document.getElementById('yearFilter').addEventListener('change', filterPapers);
+        document.getElementById('proceedingsFilter').addEventListener('change', filterPapers);
+        document.getElementById('typeFilter').addEventListener('change', filterPapers);
+
+        function filterPapers() {
+            const searchTerm = document.getElementById('searchBar').value.toLowerCase();
+            const year = document.getElementById('yearFilter').value;
+            const proceedings = document.getElementById('proceedingsFilter').value;
+            const type = document.getElementById('typeFilter').value;
+
+            const filteredData = papersData.filter(paper => {
+                const matchesSearchTerm =
+                    paper.title.toLowerCase().includes(searchTerm) ||
+                    paper.authors.some(author => author.toLowerCase().includes(searchTerm)) ||
+                    paper.proceedings.toLowerCase().includes(searchTerm) ||
+                    paper.type.toLowerCase().includes(searchTerm);
+
+                const matchesYear = year === "" || paper.year == year;
+                const matchesProceedings = proceedings === "" || paper.proceedings === proceedings;
+                const matchesType = type === "" || paper.type === type;
+
+                return matchesSearchTerm && matchesYear && matchesProceedings && matchesType;
+            });
+
+            displayPapers(filteredData);
+        }
+    </script>
+</body>
+
+</html>

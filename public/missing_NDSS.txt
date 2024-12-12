@@ -1,0 +1,4 @@
+Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning.
+Data Poisoning Attacks to Deep Learning Based Recommender Systems.
+ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks.
+Backdoor Attacks Against Dataset Distillation.
